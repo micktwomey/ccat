@@ -1,0 +1,26 @@
+# github.com/inconshreveable/mousetrap v1.0.0
+## explicit
+github.com/inconshreveable/mousetrap
+# github.com/kr/pretty v0.3.1
+## explicit; go 1.12
+# github.com/mattn/go-colorable v0.0.6
+## explicit
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.2
+## explicit
+github.com/mattn/go-isatty
+# github.com/sourcegraph/annotate v0.0.0-20160123013949-f4cad6c6324d
+## explicit
+github.com/sourcegraph/annotate
+# github.com/sourcegraph/syntaxhighlight v0.0.0-20170531221838-bd320f5d308e
+## explicit
+github.com/sourcegraph/syntaxhighlight
+# github.com/spf13/cobra v0.0.0-20170711120833-c46add8a6528
+## explicit
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.0
+## explicit
+github.com/spf13/pflag
+# golang.org/x/sys v0.0.0-20170710161658-abf9c25f5445
+## explicit
+golang.org/x/sys/unix
